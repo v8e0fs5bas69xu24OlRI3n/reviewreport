@@ -1,9 +1,9 @@
 const CONFIG = {
 
-    buyPrice: "$___",
+    buyPrice: "$195,000",
 
-    leasePrice: "$___",
+    leasePrice: "$11,889",
 
-    leaseText: "p.m. x ___",
+    leaseText: "p.m. x 18",
 
 };
